@@ -9,4 +9,4 @@ Tools Used
 Key Insights
 People don’t actually enjoy eating in open spaces, What they really want is a smoke-free and enclosed indoor setting
 
-insights (PDF) (CAPSTONE%PROJECT.PDF)
+insights (PDF) (CAPSTONE%20PROJECT.PDF)
