@@ -1,0 +1,135 @@
+﻿Consumer_ID,City,State,Smoker,Drink_Level,Transportation_Method,Marital_Status,Age,Occupation,Budget
+U1001,San Luis Potosi,San Luis Potosi,No,Abstemious,On Foot,Single,23,Student,Medium
+U1002,San Luis Potosi,San Luis Potosi,No,Abstemious,Public,Single,22,Student,Low
+U1003,San Luis Potosi,San Luis Potosi,No,Social Drinker,Public,Single,23,Student,Low
+U1004,Cuernavaca,Morelos,No,Abstemious,Public,Single,72,Employed,Medium
+U1005,San Luis Potosi,San Luis Potosi,No,Abstemious,Public,Single,20,Student,Medium
+U1006,San Luis Potosi,San Luis Potosi,Yes,Social Drinker,Car,Single,23,Student,Medium
+U1007,San Luis Potosi,San Luis Potosi,No,Casual Drinker,Public,Single,23,Student,Low
+U1008,San Luis Potosi,San Luis Potosi,No,Social Drinker,Public,Single,23,Student,Low
+U1009,San Luis Potosi,San Luis Potosi,No,Abstemious,On Foot,Single,21,Student,Medium
+U1010,San Luis Potosi,San Luis Potosi,No,Social Drinker,Car,Married,25,Student,Medium
+U1011,Ciudad Victoria,Tamaulipas,No,Abstemious,Public,Single,23,Student,Medium
+U1012,Cuernavaca,Morelos,No,Casual Drinker,Public,Single,24,Student,Medium
+U1013,San Luis Potosi,San Luis Potosi,No,Abstemious,Public,Single,30,Employed,Medium
+U1014,Ciudad Victoria,Tamaulipas,No,Abstemious,Public,Single,22,Student,Medium
+U1015,San Luis Potosi,San Luis Potosi,Yes,Social Drinker,Public,Single,23,Student,Medium
+U1016,San Luis Potosi,San Luis Potosi,No,Casual Drinker,On Foot,Single,21,Student,Medium
+U1017,Cuernavaca,Morelos,No,Casual Drinker,Public,Single,21,Employed,Medium
+U1018,San Luis Potosi,San Luis Potosi,Yes,Casual Drinker,Public,Single,23,Student,Low
+U1019,San Luis Potosi,San Luis Potosi,No,Casual Drinker,Public,Single,23,Student,Medium
+U1020,Cuernavaca,Morelos,No,Abstemious,Public,Single,30,Employed,Medium
+U1021,Ciudad Victoria,Tamaulipas,No,Social Drinker,Car,Single,28,Student,Medium
+U1022,San Luis Potosi,San Luis Potosi,No,Casual Drinker,Car,Single,22,Student,Medium
+U1023,Ciudad Victoria,Tamaulipas,No,Casual Drinker,Car,Single,24,Student,Low
+U1025,San Luis Potosi,San Luis Potosi,No,Social Drinker,Public,Single,22,Student,Medium
+U1026,Ciudad Victoria,Tamaulipas,No,Abstemious,Public,Single,23,Student,Medium
+U1027,San Luis Potosi,San Luis Potosi,Yes,Social Drinker,Public,Single,23,Student,Low
+U1028,Ciudad Victoria,Tamaulipas,No,Abstemious,Public,Single,23,Student,Medium
+U1029,San Luis Potosi,San Luis Potosi,Yes,Casual Drinker,Public,Single,22,Student,Low
+U1030,Cuernavaca,Morelos,No,Casual Drinker,On Foot,Single,21,Student,Medium
+U1031,Ciudad Victoria,Tamaulipas,No,Abstemious,Public,Married,20,Unemployed,Medium
+U1032,San Luis Potosi,San Luis Potosi,No,Abstemious,Public,Single,23,Student,Medium
+U1033,San Luis Potosi,San Luis Potosi,No,Social Drinker,On Foot,Single,21,Student,Low
+U1034,San Luis Potosi,San Luis Potosi,No,Casual Drinker,Public,Single,22,Student,Medium
+U1035,Cuernavaca,Morelos,Yes,Casual Drinker,Car,Single,27,Student,Medium
+U1036,San Luis Potosi,San Luis Potosi,No,Social Drinker,Public,Single,21,Student,Medium
+U1037,San Luis Potosi,San Luis Potosi,No,Social Drinker,Public,Single,22,Student,Low
+U1038,San Luis Potosi,San Luis Potosi,Yes,Social Drinker,Public,Single,82,Student,Low
+U1039,Ciudad Victoria,Tamaulipas,No,Social Drinker,Public,Single,23,Student,Medium
+U1040,Cuernavaca,Morelos,No,Abstemious,Public,Single,18,Student,Medium
+U1041,Cuernavaca,Morelos,No,Abstemious,On Foot,Single,27,Employed,Medium
+U1042,Cuernavaca,Morelos,No,Abstemious,Car,Single,69,Student,High
+U1043,Ciudad Victoria,Tamaulipas,No,Abstemious,Public,Single,23,Student,Medium
+U1044,Cuernavaca,Morelos,Yes,Social Drinker,Car,Married,43,Employed,Medium
+U1045,San Luis Potosi,San Luis Potosi,No,Casual Drinker,Car,Single,21,Student,High
+U1046,San Luis Potosi,San Luis Potosi,No,Social Drinker,Car,Single,22,Student,Medium
+U1047,San Luis Potosi,San Luis Potosi,No,Abstemious,Public,Single,20,Student,Medium
+U1048,San Luis Potosi,San Luis Potosi,Yes,Casual Drinker,Public,Single,24,Student,Medium
+U1049,San Luis Potosi,San Luis Potosi,No,Casual Drinker,Public,Single,21,Student,Medium
+U1050,Ciudad Victoria,Tamaulipas,No,Social Drinker,Car,Single,23,Student,Medium
+U1051,Cuernavaca,Morelos,No,Casual Drinker,Public,Single,33,Employed,Medium
+U1052,San Luis Potosi,San Luis Potosi,Yes,Social Drinker,On Foot,Single,22,Student,Low
+U1053,San Luis Potosi,San Luis Potosi,No,Casual Drinker,Public,Single,22,Student,Low
+U1054,San Luis Potosi,San Luis Potosi,No,Social Drinker,Public,Single,20,Student,Medium
+U1055,San Luis Potosi,San Luis Potosi,No,Abstemious,Car,Married,60,Employed,Medium
+U1056,San Luis Potosi,San Luis Potosi,No,Social Drinker,On Foot,Single,82,Student,Medium
+U1057,San Luis Potosi,San Luis Potosi,Yes,Casual Drinker,Public,Single,23,Student,Medium
+U1058,San Luis Potosi,San Luis Potosi,No,Abstemious,Public,Single,21,Student,Low
+U1059,Jiutepec,Morelos,No,Abstemious,On Foot,Single,25,Student,Medium
+U1060,Ciudad Victoria,Tamaulipas,No,Casual Drinker,Public,Single,21,Student,Medium
+U1061,San Luis Potosi,San Luis Potosi,No,Social Drinker,Car,Single,22,Employed,Medium
+U1062,San Luis Potosi,San Luis Potosi,No,Casual Drinker,Car,Single,27,Student,Medium
+U1063,Ciudad Victoria,Tamaulipas,No,Casual Drinker,Public,Single,24,Student,Medium
+U1064,San Luis Potosi,San Luis Potosi,No,Casual Drinker,Public,Single,21,Student,Medium
+U1065,Ciudad Victoria,Tamaulipas,No,Abstemious,Public,Single,23,Student,Medium
+U1066,Jiutepec,Morelos,No,Abstemious,Public,Single,26,Student,Low
+U1067,Ciudad Victoria,Tamaulipas,No,Abstemious,Public,Single,25,Student,Medium
+U1068,Ciudad Victoria,Tamaulipas,No,Casual Drinker,Public,Single,24,Student,Low
+U1069,Jiutepec,Morelos,No,Social Drinker,Public,Single,29,Employed,Medium
+U1070,Ciudad Victoria,Tamaulipas,No,Casual Drinker,Public,Single,21,Student,Low
+U1071,San Luis Potosi,San Luis Potosi,No,Abstemious,Car,Single,82,Student,High
+U1072,Cuernavaca,Morelos,No,Casual Drinker,Public,Single,28,Student,Medium
+U1073,San Luis Potosi,San Luis Potosi,No,Abstemious,Car,Single,23,Unemployed,Medium
+U1074,Cuernavaca,Morelos,Yes,Casual Drinker,Car,Single,45,Employed,Medium
+U1075,San Luis Potosi,San Luis Potosi,No,Casual Drinker,Car,Single,21,Student,Medium
+U1076,San Luis Potosi,San Luis Potosi,No,Social Drinker,Public,Married,25,Student,Medium
+U1077,San Luis Potosi,San Luis Potosi,No,Social Drinker,Public,Married,25,Student,Medium
+U1078,San Luis Potosi,San Luis Potosi,Yes,Social Drinker,Car,Single,29,Employed,Medium
+U1079,Cuernavaca,Morelos,No,Abstemious,Public,Single,20,Student,Medium
+U1080,Ciudad Victoria,Tamaulipas,Yes,Social Drinker,Car,Single,25,Student,Low
+U1081,San Luis Potosi,San Luis Potosi,No,Casual Drinker,Public,Single,21,Student,Low
+U1082,Ciudad Victoria,Tamaulipas,Yes,Abstemious,Public,Single,23,Student,Medium
+U1084,San Luis Potosi,San Luis Potosi,Yes,Casual Drinker,Public,Single,21,Student,Medium
+U1085,San Luis Potosi,San Luis Potosi,No,Abstemious,Car,Single,24,Student,Medium
+U1086,San Luis Potosi,San Luis Potosi,No,Social Drinker,Car,Single,21,Student,Medium
+U1087,Ciudad Victoria,Tamaulipas,No,Abstemious,Public,Single,23,Student,Medium
+U1088,San Luis Potosi,San Luis Potosi,No,Social Drinker,On Foot,Single,21,Student,Medium
+U1089,San Luis Potosi,San Luis Potosi,Yes,Casual Drinker,Public,Single,22,Student,Low
+U1090,San Luis Potosi,San Luis Potosi,No,Social Drinker,Car,Single,24,Student,Medium
+U1091,San Luis Potosi,San Luis Potosi,No,Casual Drinker,Car,Single,23,Student,Low
+U1092,San Luis Potosi,San Luis Potosi,No,Abstemious,Public,Single,22,Student,Medium
+U1093,Cuernavaca,Morelos,Yes,Casual Drinker,Car,Single,22,Student,Medium
+U1094,Ciudad Victoria,Tamaulipas,No,Abstemious,Public,Single,21,Student,Medium
+U1095,San Luis Potosi,San Luis Potosi,No,Abstemious,Public,Married,26,Student,Medium
+U1096,San Luis Potosi,San Luis Potosi,No,Abstemious,Public,Single,22,Student,Medium
+U1097,San Luis Potosi,San Luis Potosi,No,Abstemious,Public,Single,22,Student,Medium
+U1098,San Luis Potosi,San Luis Potosi,No,Social Drinker,Public,Single,21,Student,Medium
+U1099,San Luis Potosi,San Luis Potosi,Yes,Social Drinker,Public,Single,23,Student,High
+U1100,Jiutepec,Morelos,No,Casual Drinker,Public,Single,22,Student,Medium
+U1101,San Luis Potosi,San Luis Potosi,No,Casual Drinker,Car,Single,24,Student,Low
+U1102,San Luis Potosi,San Luis Potosi,No,Social Drinker,On Foot,Single,23,Student,Low
+U1103,Ciudad Victoria,Tamaulipas,No,Abstemious,Public,Single,23,Employed,Medium
+U1104,San Luis Potosi,San Luis Potosi,Yes,Social Drinker,Car,Single,21,Student,Medium
+U1105,San Luis Potosi,San Luis Potosi,No,Social Drinker,Public,Single,21,Student,Medium
+U1106,Cuernavaca,Morelos,No,Casual Drinker,Car,Single,82,Employed,Medium
+U1107,Ciudad Victoria,Tamaulipas,No,Abstemious,Car,Single,23,Student,High
+U1108,San Luis Potosi,San Luis Potosi,No,Abstemious,Public,Single,29,Student,Medium
+U1109,San Luis Potosi,San Luis Potosi,No,Abstemious,Public,Single,23,Student,Low
+U1110,Cuernavaca,Morelos,No,Abstemious,Car,Single,19,Student,Medium
+U1111,San Luis Potosi,San Luis Potosi,Yes,Casual Drinker,Car,Single,21,Student,Medium
+U1112,San Luis Potosi,San Luis Potosi,Yes,Casual Drinker,Car,Single,21,Student,Medium
+U1113,San Luis Potosi,San Luis Potosi,No,Casual Drinker,Public,Single,22,Student,Medium
+U1114,San Luis Potosi,San Luis Potosi,No,Abstemious,On Foot,Single,21,Student,Medium
+U1115,San Luis Potosi,San Luis Potosi,Yes,Social Drinker,Public,Single,22,Student,Low
+U1116,San Luis Potosi,San Luis Potosi,No,Social Drinker,Public,Married,25,Student,Medium
+U1117,Cuernavaca,Morelos,No,Abstemious,Public,Single,30,Employed,Medium
+U1118,Cuernavaca,Morelos,Yes,Casual Drinker,Public,Single,25,Student,Medium
+U1119,Cuernavaca,Morelos,No,Abstemious,Public,Single,20,Student,Medium
+U1120,San Luis Potosi,San Luis Potosi,No,Abstemious,Public,Single,82,Student,Low
+U1121,Cuernavaca,Morelos,No,Social Drinker,Public,Married,25,Employed,Medium
+U1123,Ciudad Victoria,Tamaulipas,No,Abstemious,Public,Single,25,Student,Medium
+U1124,San Luis Potosi,San Luis Potosi,No,Casual Drinker,Public,Single,21,Student,Low
+U1125,San Luis Potosi,San Luis Potosi,No,Casual Drinker,Public,Single,22,Student,Low
+U1126,San Luis Potosi,San Luis Potosi,No,Casual Drinker,On Foot,Single,22,Student,Low
+U1127,Cuernavaca,Morelos,No,Abstemious,Public,Single,20,Student,Low
+U1128,San Luis Potosi,San Luis Potosi,No,Casual Drinker,Public,Single,26,Student,Low
+U1129,Ciudad Victoria,Tamaulipas,No,Casual Drinker,Public,Single,23,Student,Low
+U1131,San Luis Potosi,San Luis Potosi,Yes,Social Drinker,Car,Married,22,Student,Medium
+U1132,San Luis Potosi,San Luis Potosi,No,Casual Drinker,Public,Single,21,Student,Medium
+U1133,Jiutepec,Morelos,No,Abstemious,Car,Single,21,Student,Medium
+U1134,San Luis Potosi,San Luis Potosi,No,Casual Drinker,Public,Single,21,Student,Medium
+U1135,San Luis Potosi,San Luis Potosi,No,Casual Drinker,On Foot,Single,24,Student,Low
+U1136,San Luis Potosi,San Luis Potosi,Yes,Social Drinker,Car,Single,22,Student,Low
+U1137,San Luis Potosi,San Luis Potosi,No,Social Drinker,Public,Single,23,Student,Low
+U1138,San Luis Potosi,San Luis Potosi,No,Social Drinker,Public,Single,21,Student,Medium
