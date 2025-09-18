@@ -1,8 +1,10 @@
-DD-CAPSTONE-PROJECT-1
-This project analyzes restaurant rating data using Excel and Power BI to uncover meaningful insights.  
-The aim is to support entrepreneurs and investors in making informed business decisions
+# Restaurant Rating Analysis  
 
-Tools Used
+# bOverview  
+This project analyzes restaurant rating data using Excel and Power BI to uncover meaningful insights,This project analyzes restaurant rating data using Excel and Power BI to uncover the meaningfuk insights , The dataset captures customer preferences around dining environments and service quality  
+The objective is to identify the factors that influence satisfaction the most, so entrepreneurs and investors can make informed decisions 
+
+# Tools Used
 - Excel (for cleaning)
 - Power BI (for and exploration,visualization and dashboards)
 
